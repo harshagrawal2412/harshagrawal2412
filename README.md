@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshagrawal2412" alt="harshagrawal2412" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [harshagrawal2412.netlify.app](harshagrawal2412.netlify.app)
+- 👨‍💻 All of my projects are available at [https://harshagrawal2412.netlify.app](My Portfolio)
 
-- 📝 I regularly write articles on [harshagrawal2412.blogspot.com](harshagrawal2412.blogspot.com)
+- 📝 I regularly write articles on [https://harshagrawal2412.blogspot.com](My blog page)
 
 - 📫 How to reach me **harshagrawal2412@gmail.com**
 
