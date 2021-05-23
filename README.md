@@ -18,7 +18,7 @@
 <a href="https://www.codechef.com/users/harshagrawal24" target="blank"><img text-align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshagrawal24" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshagrawal2412" target="blank"><img text-align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="harshagrawal2412" height="30" width="40" /></a>
 </p>
-<br/><br/>
+<br/>
 <h3 text-align="left">Languages and Tools:</h3>
 <p text-align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
