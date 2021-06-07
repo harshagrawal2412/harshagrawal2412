@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://harshagrawal2412.netlify.app](https://harshagrawal2412.netlify.app)
 
-- 📝 I regularly write articles on [https://harshagrawal2412.blogspot.com](https://harshagrawal2412.blogspot.com)
+- 📝 I write articles on [https://harshagrawal2412.blogspot.com](https://harshagrawal2412.blogspot.com)
 
 - 📫 How to reach me **harshagrawal2412@gmail.com**
 
