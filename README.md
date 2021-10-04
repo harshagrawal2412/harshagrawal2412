@@ -59,4 +59,4 @@
 <br/>
 <p>&nbsp;<img text-align="center" src="https://github-readme-stats.vercel.app/api?username=harshagrawal2412&show_icons=true&locale=en" alt="harshagrawal2412" /></p>
 <br/>
-<p><img text-align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagrawal2412&" alt="harshagrawal2412" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagrawal2412&" alt="harshagrawal2412" /></p>
