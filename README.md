@@ -14,7 +14,7 @@
 <h3 text-align="left">Connect with me:</h3>
 <p text-align="left">
 <a href="https://linkedin.com/in/harsh-agrawal-703893159/" target="blank"><img text-align="center" src="https://www.fpsa.org/wp-content/uploads/linkedin-logo-copy.png" alt="harsh-agrawal-703893159/" height="30" width="40" /></a>
-<a href="https://instagram.com/harshagrawal2412" target="blank"><img text-align="center" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" alt="harshagrawal2412" height="30" width="40" /></a>
+<a href="https://instagram.com/thisisharshagrawal" target="blank"><img text-align="center" src="http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png" alt="harshagrawal2412" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshagrawal24" target="blank"><img text-align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshagrawal24" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshagrawal2412" target="blank"><img text-align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="harshagrawal2412" height="30" width="40" /></a>
 </p>
